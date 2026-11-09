@@ -1,0 +1,34 @@
+{
+ "wid": "momo",
+ "anilistId": 789,
+ "name": "Momo",
+ "totalEpisodes": 6,
+ "repo": "adiytharpansa/v6x3i7t8xahl",
+ "pin": "8d408a8a8579041070b3497bf4845ed3bec06862",
+ "subs": {
+  "1": [
+   "en",
+   "id"
+  ],
+  "2": [
+   "en",
+   "id"
+  ],
+  "3": [
+   "en",
+   "id"
+  ],
+  "4": [
+   "en",
+   "id"
+  ],
+  "5": [
+   "en",
+   "id"
+  ],
+  "6": [
+   "en",
+   "id"
+  ]
+ }
+}
